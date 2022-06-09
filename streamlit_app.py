@@ -6,3 +6,5 @@ streamlit.text(' 🥗 Milk')
 streamlit.text(' 🐔 Egg Ommlatte')
 streamlit.text(' 🥑🍞 Avacado Toast')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
